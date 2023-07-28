@@ -29,8 +29,8 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kadirahmed&theme=graywhite" alt="kadirahmed" /></p>
 
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
-<h3 align="center">Statistics</h3>
-<div align="center">
+<!--<h3 align="center">Statistics</h3> -->
+<div align="left">
 <a href="https://github.com/kadirahmed">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadirahmed&theme=graywhite" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kadirahmed&theme=graywhite" height="180em" />
