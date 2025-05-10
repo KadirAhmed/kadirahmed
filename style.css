@@ -1,0 +1,40 @@
+/*This is my style for h1*/
+h1 {
+    color: blue;
+    text-align: left;
+    font-size: 22px;
+}
+/*This is my style for h2*/
+h2 {
+    color: hsl(240, 96%, 71%);
+}
+/*This is my style for h3*/
+h3 {
+    color: rgb(41, 33, 121)
+}
+/*This is my style for paragraphs*/
+p {
+    font-size: 16px;
+}
+/*Body with a background image which covers a whole page*/
+body {
+    /*background-image: url("body3.jpg");     !*add the name of your new background image *!*/
+    background-color: #94d08c;
+    background-repeat: repeat-y;
+    background-position: right top;
+    background-size: cover;
+}
+/*CSS rules for the HTML elements with class*/
+.blue {
+    color: rgb(6, 18, 184);
+}
+.bold {
+    font-weight: bold;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+/*CSS rule for the HTML element with id="accomplishments", applying letter spacing*/
+/*#accomplishments {*/
+/*    letter-spacing: 20px;*/
+/*}*/
